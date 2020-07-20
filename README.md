@@ -1,5 +1,5 @@
 # Performance-checkup-tool
-Check your page performance in GooglePageSpeed and GTmetrix by single click
+Performance Checkup Tool is a Chrome Bookmarklet script that is used to check your Website performance in GooglePageSpeed and GTmetrix by a single click
 
 Just add this into the URL section of a new bookmark:
 
